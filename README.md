@@ -1,5 +1,5 @@
 # Applied_Data_Science_Capstone
-# Note: The below Github/Gist links are added in the PDF presentaion file accorrding to the corresponding tasks, 
+## Note: The below Github/Gist links are added in the PDF presentaion file accorrding to the corresponding tasks, 
 https://gist.github.com/mohanad-amer/cc586ec78dc0aebedbe4652c716b00d7
 
 https://gist.github.com/mohanad-amer/63d25a5934267840ba82d549a0460a3e
